@@ -1,0 +1,1814 @@
+{
+ "小克桌宠 ClawdPet": {
+  "en": "ClawdPet",
+  "ja": "Clawd ペット ClawdPet",
+  "ko": "Clawd 펫 ClawdPet",
+  "zh-TW": "小克桌寵 ClawdPet"
+ },
+ "着急": {
+  "en": "Rushing",
+  "ja": "あせあせ",
+  "ko": "급해",
+  "zh-TW": "著急"
+ },
+ "忙碌": {
+  "en": "Busy",
+  "ja": "いそがしい",
+  "ko": "바빠",
+  "zh-TW": "忙碌"
+ },
+ "悠闲": {
+  "en": "Chill",
+  "ja": "のんびり",
+  "ko": "여유",
+  "zh-TW": "悠閒"
+ },
+ "欢呼": {
+  "en": "Cheering",
+  "ja": "ばんざい",
+  "ko": "환호",
+  "zh-TW": "歡呼"
+ },
+ "睡觉": {
+  "en": "Sleeping",
+  "ja": "おやすみ",
+  "ko": "쿨쿨",
+  "zh-TW": "睡覺"
+ },
+ "急急急！": {
+  "en": "Hurry hurry hurry!",
+  "ja": "いそげいそげ！",
+  "ko": "급해급해급해!",
+  "zh-TW": "急急急！"
+ },
+ "在忙在忙～": {
+  "en": "Busy busy~",
+  "ja": "いそがし中～",
+  "ko": "바빠 바빠~",
+  "zh-TW": "在忙在忙～"
+ },
+ "猫猫赛高": {
+  "en": "Kitties rule!",
+  "ja": "ねこねこ最高！",
+  "ko": "냥냥이 최고!",
+  "zh-TW": "貓貓賽高"
+ },
+ "做完啦！": {
+  "en": "All done!",
+  "ja": "できたー！",
+  "ko": "다 했다!",
+  "zh-TW": "做完啦！"
+ },
+ "嘿！": {
+  "en": "Hey!",
+  "ja": "やっほー！",
+  "ko": "헤이!",
+  "zh-TW": "嘿！"
+ },
+ "我在呢～": {
+  "en": "I'm here~",
+  "ja": "ここにいるよ～",
+  "ko": "나 여기 있어~",
+  "zh-TW": "我在喔～"
+ },
+ "摸摸我干嘛～": {
+  "en": "Why the pats~?",
+  "ja": "なでなでしてどうしたの～",
+  "ko": "왜 쓰담쓰담해~",
+  "zh-TW": "摸我幹嘛～"
+ },
+ "今天也加油！": {
+  "en": "Let's do our best today too!",
+  "ja": "今日もがんばろ！",
+  "ko": "오늘도 파이팅!",
+  "zh-TW": "今天也加油！"
+ },
+ "嘿嘿": {
+  "en": "Hehe",
+  "ja": "えへへ",
+  "ko": "헤헤",
+  "zh-TW": "嘿嘿"
+ },
+ "要喝水哦": {
+  "en": "Drink some water, ok?",
+  "ja": "お水飲んでね",
+  "ko": "물 마셔야 해~",
+  "zh-TW": "要喝水喔"
+ },
+ "Claude 应用": {
+  "en": "Claude app",
+  "ja": "Claude アプリ",
+  "ko": "Claude 앱",
+  "zh-TW": "Claude 應用程式"
+ },
+ "工作台（今日小克终未地）": {
+  "en": "Clawdfield",
+  "ja": "Clawdfield",
+  "ko": "Clawdfield",
+  "zh-TW": "工作台（今日小克終未地）"
+ },
+ "什么都不打开（小克跳一下）": {
+  "en": "Open nothing (Clawd just hops)",
+  "ja": "何も開かない（Clawdがぴょんっ）",
+  "ko": "아무것도 안 열기 (Clawd가 폴짝)",
+  "zh-TW": "什麼都不開（小克跳一下）"
+ },
+ "中": {
+  "en": "Medium",
+  "ja": "中",
+  "ko": "보통",
+  "zh-TW": "中"
+ },
+ "标准": {
+  "en": "Standard",
+  "ja": "ふつう",
+  "ko": "기본",
+  "zh-TW": "標準"
+ },
+ "瘦瘦": {
+  "en": "Slim",
+  "ja": "ほっそり",
+  "ko": "날씬이",
+  "zh-TW": "瘦瘦"
+ },
+ "胖嘟嘟": {
+  "en": "Chubby",
+  "ja": "ぽっちゃり",
+  "ko": "통통이",
+  "zh-TW": "胖嘟嘟"
+ },
+ "高个子": {
+  "en": "Tall",
+  "ja": "のっぽ",
+  "ko": "키다리",
+  "zh-TW": "高個子"
+ },
+ "矮墩墩": {
+  "en": "Stubby",
+  "ja": "ずんぐり",
+  "ko": "땅딸이",
+  "zh-TW": "矮墩墩"
+ },
+ "圆滚滚": {
+  "en": "Round",
+  "ja": "まんまる",
+  "ko": "동글이",
+  "zh-TW": "圓滾滾"
+ },
+ "迷你": {
+  "en": "Mini",
+  "ja": "ミニ",
+  "ko": "미니",
+  "zh-TW": "迷你"
+ },
+ "大只": {
+  "en": "Big",
+  "ja": "ビッグ",
+  "ko": "빅",
+  "zh-TW": "大隻"
+ },
+ "不换": {
+  "en": "Never",
+  "ja": "変えない",
+  "ko": "안 바꿈",
+  "zh-TW": "不換"
+ },
+ "每 30 分钟": {
+  "en": "Every 30 min",
+  "ja": "30分ごと",
+  "ko": "30분마다",
+  "zh-TW": "每 30 分鐘"
+ },
+ "每 1 小时": {
+  "en": "Every hour",
+  "ja": "1時間ごと",
+  "ko": "1시간마다",
+  "zh-TW": "每 1 小時"
+ },
+ "每 3 小时": {
+  "en": "Every 3 hours",
+  "ja": "3時間ごと",
+  "ko": "3시간마다",
+  "zh-TW": "每 3 小時"
+ },
+ "每天": {
+  "en": "Daily",
+  "ja": "毎日",
+  "ko": "매일",
+  "zh-TW": "每天"
+ },
+ "原版小克": {
+  "en": "Original Clawd",
+  "ja": "オリジナル Clawd",
+  "ko": "오리지널 Clawd",
+  "zh-TW": "原版小克"
+ },
+ "⚄ {0}！": {
+  "en": "⚄ {0}!",
+  "ja": "⚄ {0}！",
+  "ko": "⚄ {0}!",
+  "zh-TW": "⚄ {0}！"
+ },
+ "记住啦！点我就打开它": {
+  "en": "Got it! Click me to open it",
+  "ja": "覚えた！クリックで開くよ",
+  "ko": "기억했어! 날 누르면 열어줄게",
+  "zh-TW": "記住啦！點我就打開它"
+ },
+ "工作台连上啦": {
+  "en": "Clawdfield connected!",
+  "ja": "Clawdfieldとつながったよ",
+  "ko": "Clawdfield 연결됐어!",
+  "zh-TW": "工作台連上啦"
+ },
+ "换好啦！": {
+  "en": "All changed!",
+  "ja": "着替えたよ！",
+  "ko": "갈아입었어!",
+  "zh-TW": "換好啦！"
+ },
+ "换了一身：{0}": {
+  "en": "New outfit: {0}",
+  "ja": "お着替え：{0}",
+  "ko": "새 옷: {0}",
+  "zh-TW": "換了一身：{0}"
+ },
+ "换我来啦～我是{0}": {
+  "en": "My turn~ I'm {0}",
+  "ja": "交代だよ～{0}です",
+  "ko": "내 차례~ 나는 {0}",
+  "zh-TW": "換我來啦～我是{0}"
+ },
+ "复制好啦，去小红书搜一下～": {
+  "en": "Copied! Go search it on Xiaohongshu (RED)~",
+  "ja": "コピーしたよ、小紅書で検索してね～",
+  "ko": "복사했어, 샤오홍슈에서 검색해 봐~",
+  "zh-TW": "複製好啦，去小紅書搜一下～"
+ },
+ "在听～说吧": {
+  "en": "Listening~ go ahead",
+  "ja": "聞いてるよ～どうぞ",
+  "ko": "듣고 있어~ 말해 봐",
+  "zh-TW": "在聽～說吧"
+ },
+ "找不到克讲机～": {
+  "en": "Can't find Clawkie~",
+  "ja": "Clawkie が見つからない～",
+  "ko": "Clawkie를 못 찾겠어~",
+  "zh-TW": "找不到克講機～"
+ },
+ "帮你把工作台开起来～": {
+  "en": "Starting Clawdfield for you~",
+  "ja": "Clawdfieldを起動するね～",
+  "ko": "Clawdfield 켜 줄게~",
+  "zh-TW": "幫你把工作台打開～"
+ },
+ "点一下打开哪个网址": {
+  "en": "Which URL to open on click",
+  "ja": "クリックで開くURL",
+  "ko": "클릭하면 열 URL",
+  "zh-TW": "點一下打開哪個網址"
+ },
+ "网址（http 开头）：": {
+  "en": "URL (starts with http):",
+  "ja": "URL（http で始まる）：",
+  "ko": "URL (http로 시작):",
+  "zh-TW": "網址（http 開頭）："
+ },
+ "工作台断开啦": {
+  "en": "Clawdfield disconnected",
+  "ja": "Clawdfieldとの接続が切れたよ",
+  "ko": "Clawdfield 연결 끊겼어",
+  "zh-TW": "工作台斷線啦"
+ },
+ "还没找到克讲机～它是作者的另一个作品，GitHub 上还没有的话，过段时间就会发": {
+  "en": "Clawkie not found yet~ It's another project by the author; if it's not on GitHub yet, it's coming soon",
+  "ja": "Clawkie はまだ見つからないよ～作者の別の作品で、GitHub にまだなければそのうち公開されるよ",
+  "ko": "아직 Clawkie를 못 찾았어~ 작가의 다른 작품이야. GitHub에 아직 없으면 곧 올라올 거야",
+  "zh-TW": "還沒找到克講機～它是作者的另一個作品，GitHub 上還沒有的話，過陣子就會發"
+ },
+ "克讲机连上啦": {
+  "en": "Clawkie connected!",
+  "ja": "Clawkie とつながったよ",
+  "ko": "Clawkie 연결됐어!",
+  "zh-TW": "克講機連上啦"
+ },
+ "克讲机断开啦": {
+  "en": "Clawkie disconnected",
+  "ja": "Clawkie との接続が切れたよ",
+  "ko": "Clawkie 연결 끊겼어",
+  "zh-TW": "克講機斷線啦"
+ },
+ "工作台（今日小克终未地）装在哪个文件夹？": {
+  "en": "Which folder is Clawdfield in?",
+  "ja": "Clawdfieldはどのフォルダにある？",
+  "ko": "Clawdfield는 어느 폴더에 있어?",
+  "zh-TW": "工作台（今日小克終未地）裝在哪個資料夾？"
+ },
+ "这个文件夹里没有工作台～（要有 server.py）": {
+  "en": "No Clawdfield in this folder~ (needs server.py)",
+  "ja": "このフォルダにClawdfieldはないよ～（server.py が必要）",
+  "ko": "이 폴더엔 Clawdfield가 없어~ (server.py가 있어야 해)",
+  "zh-TW": "這個資料夾裡沒有工作台～（要有 server.py）"
+ },
+ "剪贴板里没有造型～先去工作台衣柜点「复制给桌宠」": {
+  "en": "No look in the clipboard~ First click “Copy to pet” in Clawdfield wardrobe",
+  "ja": "クリップボードにコーデがないよ～先にClawdfieldのクローゼットで「ペットにコピー」を押してね",
+  "ko": "클립보드에 코디가 없어~ 먼저 Clawdfield 옷장에서 '펫에게 복사'를 눌러 줘",
+  "zh-TW": "剪貼簿裡沒有造型～先去工作台衣櫃點「複製給桌寵」"
+ },
+ "还没有一群小克～先去工作台 ⚙ 选「桌宠随机换」再粘贴": {
+  "en": "No Clawd crew yet~ In Clawdfield, pick “Pet random swap” under ⚙, then paste",
+  "ja": "Clawd の仲間がまだいないよ～先にClawdfieldの ⚙ で「ペットをランダム交代」を選んでから貼り付けてね",
+  "ko": "아직 Clawd 무리가 없어~ 먼저 Clawdfield ⚙에서 '펫 랜덤 교체'를 고른 뒤 붙여 넣어 줘",
+  "zh-TW": "還沒有一群小克～先去工作台 ⚙ 選「桌寵隨機換」再貼上"
+ },
+ "⚄ 随机一个": {
+  "en": "⚄ Random one",
+  "ja": "⚄ ランダム",
+  "ko": "⚄ 랜덤",
+  "zh-TW": "⚄ 隨機一個"
+ },
+ "＋ 加一个新状态 / 改说的话…": {
+  "en": "＋ Add a state / edit lines…",
+  "ja": "＋ 状態を追加 / セリフを変える…",
+  "ko": "＋ 상태 추가 / 대사 바꾸기…",
+  "zh-TW": "＋ 加一個新狀態 / 改說的話…"
+ },
+ "状态": {
+  "en": "State",
+  "ja": "状態",
+  "ko": "상태",
+  "zh-TW": "狀態"
+ },
+ "最近在做": {
+  "en": "Recently doing",
+  "ja": "最近やってること",
+  "ko": "최근 하는 일",
+  "zh-TW": "最近在做"
+ },
+ "打开衣柜…（试穿、自己画、让 AI 做）": {
+  "en": "Open wardrobe… (try on, draw, let AI make)",
+  "ja": "クローゼットを開く…（試着・お絵かき・AIにおまかせ）",
+  "ko": "옷장 열기… (입어 보기, 그리기, AI가 만들기)",
+  "zh-TW": "打開衣櫃…（試穿、自己畫、讓 AI 做）"
+ },
+ "⚄ 随机换一身（从上面这些整套里挑）": {
+  "en": "⚄ Random outfit (from the sets above)",
+  "ja": "⚄ ランダムでお着替え（上のセットから）",
+  "ko": "⚄ 랜덤 옷 갈아입기 (위 세트 중에서)",
+  "zh-TW": "⚄ 隨機換一身（從上面這些整套裡挑）"
+ },
+ "定时随机换一身": {
+  "en": "Auto random outfit",
+  "ja": "定期的にランダムお着替え",
+  "ko": "정해진 시간마다 랜덤 옷",
+  "zh-TW": "定時隨機換一身"
+ },
+ "造型": {
+  "en": "Look",
+  "ja": "コーデ",
+  "ko": "코디",
+  "zh-TW": "造型"
+ },
+ "大小": {
+  "en": "Size",
+  "ja": "サイズ",
+  "ko": "크기",
+  "zh-TW": "大小"
+ },
+ "选一个别的程序…（Codex、别的 AI 应用……）": {
+  "en": "Pick another program… (Codex, other AI apps…)",
+  "ja": "ほかのプログラムを選ぶ…（Codex、ほかの AI アプリ…）",
+  "ko": "다른 프로그램 고르기… (Codex, 다른 AI 앱…)",
+  "zh-TW": "選一個別的程式…（Codex、別的 AI 應用程式……）"
+ },
+ "填一个网址…": {
+  "en": "Enter a URL…",
+  "ja": "URLを入力…",
+  "ko": "URL 입력…",
+  "zh-TW": "填一個網址…"
+ },
+ "点一下打开": {
+  "en": "Click to open",
+  "ja": "クリックで開く",
+  "ko": "클릭해서 열기",
+  "zh-TW": "點一下打開"
+ },
+ "这两个都是作者的其他作品，装了会自己连上": {
+  "en": "Both are other projects by the author; they connect automatically once installed",
+  "ja": "どちらも作者のほかの作品で、入れると自動でつながるよ",
+  "ko": "둘 다 작가의 다른 작품이야. 설치하면 알아서 연결돼",
+  "zh-TW": "這兩個都是作者的其他作品，裝了會自己連上"
+ },
+ "克讲机（手里拿迷你对讲机，双击 / 长按叫它）": {
+  "en": "Clawkie (holds a mini walkie-talkie; double-click / long-press to call)",
+  "ja": "Clawkie（ミニトランシーバーを持つ、ダブルクリック / 長押しで呼ぶ）",
+  "ko": "Clawkie (미니 무전기를 들고 있어, 더블클릭 / 길게 눌러 부르기)",
+  "zh-TW": "克講機（手裡拿迷你對講機，雙擊 / 長按叫它）"
+ },
+ "联动": {
+  "en": "Connections",
+  "ja": "連携",
+  "ko": "연동",
+  "zh-TW": "連動"
+ },
+ "显示说话气泡": {
+  "en": "Show speech bubbles",
+  "ja": "吹き出しを表示",
+  "ko": "말풍선 표시",
+  "zh-TW": "顯示對話泡泡"
+ },
+ "一直在最上面": {
+  "en": "Always on top",
+  "ja": "常に最前面",
+  "ko": "항상 위에",
+  "zh-TW": "永遠在最上層"
+ },
+ "开机自动出现": {
+  "en": "Show at startup",
+  "ja": "PC 起動時に出てくる",
+  "ko": "부팅하면 자동으로 나오기",
+  "zh-TW": "開機自動出現"
+ },
+ "{0} v{1} · 原创 Miaomiao": {
+  "en": "{0} v{1} · by Miaomiao",
+  "ja": "{0} v{1} · 作者 Miaomiao",
+  "ko": "{0} v{1} · 원작 Miaomiao",
+  "zh-TW": "{0} v{1} · 原創 Miaomiao"
+ },
+ "许可 CC BY-NC-SA 4.0：可以改，不准商用（点开看）": {
+  "en": "License CC BY-NC-SA 4.0: remix OK, no commercial use (click to view)",
+  "ja": "ライセンス CC BY-NC-SA 4.0：改変OK、商用NG（クリックで表示）",
+  "ko": "라이선스 CC BY-NC-SA 4.0: 수정 OK, 상업적 이용 금지 (클릭해서 보기)",
+  "zh-TW": "授權 CC BY-NC-SA 4.0：可以改，不准商用（點開看）"
+ },
+ "GitHub：Miaomiaomeowmeow/clawd-pet": {
+  "en": "GitHub: Miaomiaomeowmeow/clawd-pet",
+  "ja": "GitHub：Miaomiaomeowmeow/clawd-pet",
+  "ko": "GitHub: Miaomiaomeowmeow/clawd-pet",
+  "zh-TW": "GitHub：Miaomiaomeowmeow/clawd-pet"
+ },
+ "打开状态文件": {
+  "en": "Open status file",
+  "ja": "状態ファイルを開く",
+  "ko": "상태 파일 열기",
+  "zh-TW": "開啟狀態檔案"
+ },
+ "打开桌宠所在的文件夹": {
+  "en": "Open the pet's folder",
+  "ja": "ペットのフォルダを開く",
+  "ko": "펫 폴더 열기",
+  "zh-TW": "開啟桌寵所在的資料夾"
+ },
+ "关于": {
+  "en": "About",
+  "ja": "このアプリについて",
+  "ko": "정보",
+  "zh-TW": "關於"
+ },
+ "★ 作者在找工作！有工作机会请联系我": {
+  "en": "★ The author is job hunting! Please reach out with opportunities",
+  "ja": "★ 作者は求職中！お仕事のご連絡お待ちしてます",
+  "ko": "★ 작가가 구직 중이에요! 일자리 제안은 꼭 연락 주세요",
+  "zh-TW": "★ 作者在找工作！有工作機會請聯絡我"
+ },
+ "LinkedIn 领英：Miaomiao Yang（点开）": {
+  "en": "LinkedIn: Miaomiao Yang (open)",
+  "ja": "LinkedIn：Miaomiao Yang（開く）",
+  "ko": "LinkedIn: Miaomiao Yang (열기)",
+  "zh-TW": "LinkedIn：Miaomiao Yang（點開）"
+ },
+ "小红书：{0}（点一下复制）": {
+  "en": "Xiaohongshu (RED): {0} (click to copy)",
+  "ja": "小紅書：{0}（クリックでコピー）",
+  "ko": "샤오홍슈: {0} (클릭해서 복사)",
+  "zh-TW": "小紅書：{0}（點一下複製）"
+ },
+ "作者的其他作品（GitHub）": {
+  "en": "Author's other projects (GitHub)",
+  "ja": "作者のほかの作品（GitHub）",
+  "ko": "작가의 다른 작품 (GitHub)",
+  "zh-TW": "作者的其他作品（GitHub）"
+ },
+ "联系作者 · 在找工作！": {
+  "en": "Contact the author · Job hunting!",
+  "ja": "作者に連絡 · 求職中！",
+  "ko": "작가에게 연락 · 구직 중!",
+  "zh-TW": "聯絡作者 · 在找工作！"
+ },
+ "退出": {
+  "en": "Quit",
+  "ja": "終了",
+  "ko": "종료",
+  "zh-TW": "結束"
+ },
+ "发现工作台啦～右键就能打开它": {
+  "en": "Found Clawdfield~ right-click to open it",
+  "ja": "Clawdfieldを見つけたよ～右クリックで開けるよ",
+  "ko": "Clawdfield를 찾았어~ 우클릭하면 열 수 있어",
+  "zh-TW": "發現工作台啦～按右鍵就能打開它"
+ },
+ "发现克讲机啦，我拿上了～（右键 → 联动能关）": {
+  "en": "Found Clawkie, got it in hand~ (Right-click → Connections to turn off)",
+  "ja": "Clawkie を見つけたよ、持っとくね～（右クリック → 連携でオフにできる）",
+  "ko": "Clawkie 찾았다, 내가 들고 있을게~ (우클릭 → 연동에서 끌 수 있어)",
+  "zh-TW": "發現克講機啦，我拿上了～（右鍵 → 連動可以關）"
+ },
+ "工作台没开起来～去它的文件夹双击 start.bat 试试": {
+  "en": "Clawdfield didn't start~ try double-clicking start.bat in its folder",
+  "ja": "Clawdfieldが起動しなかった～フォルダの start.bat をダブルクリックしてみて",
+  "ko": "Clawdfield가 안 켜졌어~ 그 폴더의 start.bat을 더블클릭해 봐",
+  "zh-TW": "工作台沒開起來～去它的資料夾雙擊 start.bat 試試"
+ },
+ "没找到 Claude 应用～": {
+  "en": "Claude app not found~",
+  "ja": "Claude アプリが見つからない～",
+  "ko": "Claude 앱을 못 찾았어~",
+  "zh-TW": "沒找到 Claude 應用程式～"
+ },
+ "打不开它～右键「点一下打开」重新选一个": {
+  "en": "Can't open it~ right-click “Click to open” to pick another",
+  "ja": "開けないよ～右クリックの「クリックで開く」で選び直してね",
+  "ko": "열 수가 없어~ 우클릭 '클릭해서 열기'에서 다시 골라 줘",
+  "zh-TW": "打不開它～右鍵「點一下打開」重新選一個"
+ },
+ "点一下打开哪个程序？（Codex、别的 AI 应用、任何程序或快捷方式）": {
+  "en": "Which program to open on click? (Codex, other AI apps, any program or shortcut)",
+  "ja": "クリックで開くプログラムは？（Codex、ほかの AI アプリ、どんなプログラムやショートカットでも）",
+  "ko": "클릭하면 열 프로그램은? (Codex, 다른 AI 앱, 아무 프로그램이나 바로가기)",
+  "zh-TW": "點一下打開哪個程式？（Codex、別的 AI 應用程式、任何程式或捷徑）"
+ },
+ "打开工作台": {
+  "en": "Open Clawdfield",
+  "ja": "Clawdfieldを開く",
+  "ko": "Clawdfield 열기",
+  "zh-TW": "打開工作台"
+ },
+ "克讲机（双击小克也行，长按 = 按住说话）": {
+  "en": "Clawkie (or double-click Clawd; long-press = push to talk)",
+  "ja": "Clawkie（Clawd をダブルクリックでもOK、長押し＝押して話す）",
+  "ko": "Clawkie (Clawd를 더블클릭해도 돼, 길게 누르기 = 눌러서 말하기)",
+  "zh-TW": "克講機（雙擊小克也行，長按 = 按住說話）"
+ },
+ "还没有：让你的 AI 用 pet.py 告诉我在做什么": {
+  "en": "Nothing yet: have your AI tell me what it's doing via pet.py",
+  "ja": "まだないよ：あなたの AI に pet.py で何をしてるか教えてもらってね",
+  "ko": "아직 없어: 네 AI가 pet.py로 뭘 하는지 알려 주게 해 줘",
+  "zh-TW": "還沒有：讓你的 AI 用 pet.py 告訴我在做什麼"
+ },
+ "粘贴工作台的造型": {
+  "en": "Paste look from Clawdfield",
+  "ja": "Clawdfieldのコーデを貼り付け",
+  "ko": "Clawdfield 코디 붙여 넣기",
+  "zh-TW": "貼上工作台的造型"
+ },
+ "现在换一只": {
+  "en": "Swap now",
+  "ja": "今すぐ交代",
+  "ko": "지금 바꾸기",
+  "zh-TW": "現在換一隻"
+ },
+ "随机换成工作台里的小克": {
+  "en": "Randomly become a Clawdfield Clawd",
+  "ja": "Clawdfieldの Clawd にランダムで交代",
+  "ko": "Clawdfield의 Clawd로 랜덤 교체",
+  "zh-TW": "隨機換成工作台裡的小克"
+ },
+ "去作者的 GitHub 找它们（还没有的话，过段时间就会发）": {
+  "en": "Find them on the author's GitHub (if not there yet, coming soon)",
+  "ja": "作者の GitHub で探してね（まだなければそのうち公開）",
+  "ko": "작가의 GitHub에서 찾아 봐 (아직 없으면 곧 올라와)",
+  "zh-TW": "去作者的 GitHub 找它們（還沒有的話，過陣子就會發）"
+ },
+ "　 按你点着的 Claude 对话提醒备忘": {
+  "en": "　 Reminders for the Claude chat you've selected",
+  "ja": "　 選んでいる Claude の会話に合わせてメモをお知らせ",
+  "ko": "　 선택한 Claude 대화에 맞춰 메모 알림",
+  "zh-TW": "　 依你點選的 Claude 對話提醒備忘"
+ },
+ "作者的网站（简历 + 更多作品）": {
+  "en": "Author's website (resume + more projects)",
+  "ja": "作者のサイト（履歴書＋ほかの作品）",
+  "ko": "작가 웹사이트 (이력서 + 더 많은 작품)",
+  "zh-TW": "作者的網站（履歷 + 更多作品）"
+ },
+ "作者的网站：还在做，先关注领英，新作品会发在那": {
+  "en": "Author's website: still in progress. Follow on LinkedIn for new projects",
+  "ja": "作者のサイト：まだ制作中。新作は LinkedIn で公開するのでフォローしてね",
+  "ko": "작가 웹사이트: 아직 만드는 중. 새 작품은 LinkedIn에 올라오니 팔로우해 줘",
+  "zh-TW": "作者的網站：還在做，先追蹤 LinkedIn，新作品會發在那"
+ },
+ "  共{0}件 ▸": {
+  "en": "  {0} items ▸",
+  "ja": "  全{0}件 ▸",
+  "ko": "  총 {0}개 ▸",
+  "zh-TW": "  共{0}件 ▸"
+ },
+ "还没找到工作台～右键「联动」可以设置": {
+  "en": "Clawdfield not found yet~ set it up via right-click “Connections”",
+  "ja": "Clawdfieldがまだ見つからない～右クリックの「連携」で設定できるよ",
+  "ko": "아직 Clawdfield를 못 찾았어~ 우클릭 '연동'에서 설정할 수 있어",
+  "zh-TW": "還沒找到工作台～右鍵「連動」可以設定"
+ },
+ "别的：": {
+  "en": "Other:",
+  "ja": "その他：",
+  "ko": "기타:",
+  "zh-TW": "別的："
+ },
+ "（点这里换）": {
+  "en": "(click to change)",
+  "ja": "（クリックで変更）",
+  "ko": "(클릭해서 바꾸기)",
+  "zh-TW": "（點這裡換）"
+ },
+ "手里拿着迷你对讲机": {
+  "en": "Holding a mini walkie-talkie",
+  "ja": "ミニトランシーバーを持つ",
+  "ko": "미니 무전기 들기",
+  "zh-TW": "手裡拿著迷你對講機"
+ },
+ "　 　 迷你对讲机颜色：": {
+  "en": "　 　 Walkie-talkie color:",
+  "ja": "　 　 トランシーバーの色：",
+  "ko": "　 　 무전기 색:",
+  "zh-TW": "　 　 迷你對講機顏色："
+ },
+ "程序 / 快捷方式": {
+  "en": "Program / shortcut",
+  "ja": "プログラム / ショートカット",
+  "ko": "프로그램 / 바로가기",
+  "zh-TW": "程式 / 捷徑"
+ },
+ "全部": {
+  "en": "All",
+  "ja": "すべて",
+  "ko": "전체",
+  "zh-TW": "全部"
+ },
+ "　 在：": {
+  "en": "　 At: ",
+  "ja": "　 場所：",
+  "ko": "　 위치: ",
+  "zh-TW": "　 在："
+ },
+ "　 ✓ ": {
+  "en": "　 ✓ ",
+  "ja": "　 ✓ ",
+  "ko": "　 ✓ ",
+  "zh-TW": "　 ✓ "
+ },
+ "　 　 ": {
+  "en": "　 　 ",
+  "ja": "　 　 ",
+  "ko": "　 　 ",
+  "zh-TW": "　 　 "
+ },
+ "跟小克（点一下换成跟克讲机机身）": {
+  "en": "Match Clawd (click to match Clawkie's body)",
+  "ja": "Clawd に合わせる（クリックで Clawkie 本体に合わせる）",
+  "ko": "Clawd에 맞추기 (클릭하면 Clawkie 본체에 맞추기)",
+  "zh-TW": "跟小克（點一下換成跟克講機機身）"
+ },
+ "跟克讲机机身（点一下换成跟小克）": {
+  "en": "Match Clawkie's body (click to match Clawd)",
+  "ja": "Clawkie 本体に合わせる（クリックで Clawd に合わせる）",
+  "ko": "Clawkie 본체에 맞추기 (클릭하면 Clawd에 맞추기)",
+  "zh-TW": "跟克講機機身（點一下換成跟小克）"
+ },
+ "还没找到": {
+  "en": "Not found yet",
+  "ja": "まだ見つからない",
+  "ko": "아직 못 찾음",
+  "zh-TW": "還沒找到"
+ },
+ "克 ": {
+  "en": "Clawd ",
+  "ja": "Clawd ",
+  "ko": "Clawd ",
+  "zh-TW": "克 "
+ },
+ "整套": {
+  "en": "Full set",
+  "ja": "セット",
+  "ko": "세트",
+  "zh-TW": "整套"
+ },
+ "体型": {
+  "en": "Build",
+  "ja": "体型",
+  "ko": "체형",
+  "zh-TW": "體型"
+ },
+ "耳朵": {
+  "en": "Ears",
+  "ja": "耳",
+  "ko": "귀",
+  "zh-TW": "耳朵"
+ },
+ "尾巴": {
+  "en": "Tail",
+  "ja": "しっぽ",
+  "ko": "꼬리",
+  "zh-TW": "尾巴"
+ },
+ "手上": {
+  "en": "Hands",
+  "ja": "手",
+  "ko": "손",
+  "zh-TW": "手上"
+ },
+ "头上": {
+  "en": "Head",
+  "ja": "頭",
+  "ko": "머리",
+  "zh-TW": "頭上"
+ },
+ "脸上": {
+  "en": "Face",
+  "ja": "顔",
+  "ko": "얼굴",
+  "zh-TW": "臉上"
+ },
+ "身上": {
+  "en": "Body",
+  "ja": "体",
+  "ko": "몸",
+  "zh-TW": "身上"
+ },
+ "颜色": {
+  "en": "Color",
+  "ja": "色",
+  "ko": "색",
+  "zh-TW": "顏色"
+ },
+ "想要什么样（空着 = 随便）": {
+  "en": "What kind? (blank = surprise me)",
+  "ja": "どんなのがいい？（空欄＝おまかせ）",
+  "ko": "어떤 걸로? (비우면 = 아무거나)",
+  "zh-TW": "想要什麼樣（空著 = 隨便）"
+ },
+ "不要": {
+  "en": "None",
+  "ja": "なし",
+  "ko": "없음",
+  "zh-TW": "不要"
+ },
+ "狐狸耳": {
+  "en": "Fox ears",
+  "ja": "キツネ耳",
+  "ko": "여우 귀",
+  "zh-TW": "狐狸耳"
+ },
+ "猫耳": {
+  "en": "Cat ears",
+  "ja": "ネコ耳",
+  "ko": "고양이 귀",
+  "zh-TW": "貓耳"
+ },
+ "兔耳": {
+  "en": "Bunny ears",
+  "ja": "うさ耳",
+  "ko": "토끼 귀",
+  "zh-TW": "兔耳"
+ },
+ "熊耳": {
+  "en": "Bear ears",
+  "ja": "クマ耳",
+  "ko": "곰 귀",
+  "zh-TW": "熊耳"
+ },
+ "狐狸尾": {
+  "en": "Fox tail",
+  "ja": "キツネしっぽ",
+  "ko": "여우 꼬리",
+  "zh-TW": "狐狸尾"
+ },
+ "猫尾": {
+  "en": "Cat tail",
+  "ja": "ネコしっぽ",
+  "ko": "고양이 꼬리",
+  "zh-TW": "貓尾"
+ },
+ "兔尾": {
+  "en": "Bunny tail",
+  "ja": "うさしっぽ",
+  "ko": "토끼 꼬리",
+  "zh-TW": "兔尾"
+ },
+ "空手": {
+  "en": "Empty",
+  "ja": "手ぶら",
+  "ko": "빈손",
+  "zh-TW": "空手"
+ },
+ "抱猫": {
+  "en": "Cuddle cat",
+  "ja": "ねこ抱っこ",
+  "ko": "고양이 안기",
+  "zh-TW": "抱貓"
+ },
+ "小鱼": {
+  "en": "Little fish",
+  "ja": "おさかな",
+  "ko": "물고기",
+  "zh-TW": "小魚"
+ },
+ "奶茶": {
+  "en": "Milk tea",
+  "ja": "ミルクティー",
+  "ko": "밀크티",
+  "zh-TW": "奶茶"
+ },
+ "不戴": {
+  "en": "None",
+  "ja": "なし",
+  "ko": "안 씀",
+  "zh-TW": "不戴"
+ },
+ "安全帽": {
+  "en": "Hard hat",
+  "ja": "ヘルメット",
+  "ko": "안전모",
+  "zh-TW": "安全帽"
+ },
+ "贝雷帽": {
+  "en": "Beret",
+  "ja": "ベレー帽",
+  "ko": "베레모",
+  "zh-TW": "貝雷帽"
+ },
+ "小皇冠": {
+  "en": "Tiny crown",
+  "ja": "ミニ王冠",
+  "ko": "작은 왕관",
+  "zh-TW": "小皇冠"
+ },
+ "厨师帽": {
+  "en": "Chef hat",
+  "ja": "コック帽",
+  "ko": "요리사 모자",
+  "zh-TW": "廚師帽"
+ },
+ "魔法帽": {
+  "en": "Witch hat",
+  "ja": "とんがり帽",
+  "ko": "마법 모자",
+  "zh-TW": "魔法帽"
+ },
+ "草帽": {
+  "en": "Straw hat",
+  "ja": "麦わら帽子",
+  "ko": "밀짚모자",
+  "zh-TW": "草帽"
+ },
+ "圣诞帽": {
+  "en": "Santa hat",
+  "ja": "サンタ帽",
+  "ko": "산타 모자",
+  "zh-TW": "聖誕帽"
+ },
+ "蝴蝶结": {
+  "en": "Bow",
+  "ja": "リボン",
+  "ko": "리본",
+  "zh-TW": "蝴蝶結"
+ },
+ "耳机": {
+  "en": "Headphones",
+  "ja": "ヘッドホン",
+  "ko": "헤드폰",
+  "zh-TW": "耳機"
+ },
+ "小花": {
+  "en": "Little flower",
+  "ja": "お花",
+  "ko": "꽃",
+  "zh-TW": "小花"
+ },
+ "眼镜": {
+  "en": "Glasses",
+  "ja": "メガネ",
+  "ko": "안경",
+  "zh-TW": "眼鏡"
+ },
+ "墨镜": {
+  "en": "Sunglasses",
+  "ja": "サングラス",
+  "ko": "선글라스",
+  "zh-TW": "墨鏡"
+ },
+ "腮红": {
+  "en": "Blush",
+  "ja": "ほっぺ",
+  "ko": "볼터치",
+  "zh-TW": "腮紅"
+ },
+ "创可贴": {
+  "en": "Band-aid",
+  "ja": "ばんそうこう",
+  "ko": "반창고",
+  "zh-TW": "OK繃"
+ },
+ "背带裤": {
+  "en": "Overalls",
+  "ja": "オーバーオール",
+  "ko": "멜빵바지",
+  "zh-TW": "吊帶褲"
+ },
+ "围裙": {
+  "en": "Apron",
+  "ja": "エプロン",
+  "ko": "앞치마",
+  "zh-TW": "圍裙"
+ },
+ "披风": {
+  "en": "Cape",
+  "ja": "マント",
+  "ko": "망토",
+  "zh-TW": "披風"
+ },
+ "领结": {
+  "en": "Bow tie",
+  "ja": "蝶ネクタイ",
+  "ko": "나비넥타이",
+  "zh-TW": "領結"
+ },
+ "黄围巾": {
+  "en": "Yellow scarf",
+  "ja": "黄色マフラー",
+  "ko": "노란 목도리",
+  "zh-TW": "黃圍巾"
+ },
+ "红围巾": {
+  "en": "Red scarf",
+  "ja": "赤マフラー",
+  "ko": "빨간 목도리",
+  "zh-TW": "紅圍巾"
+ },
+ "原色": {
+  "en": "Original",
+  "ja": "オリジナル",
+  "ko": "기본색",
+  "zh-TW": "原色"
+ },
+ "紫": {
+  "en": "Purple",
+  "ja": "むらさき",
+  "ko": "보라",
+  "zh-TW": "紫"
+ },
+ "水青": {
+  "en": "Aqua",
+  "ja": "みずいろ",
+  "ko": "아쿠아",
+  "zh-TW": "水青"
+ },
+ "粉": {
+  "en": "Pink",
+  "ja": "ピンク",
+  "ko": "핑크",
+  "zh-TW": "粉"
+ },
+ "夜紫": {
+  "en": "Night purple",
+  "ja": "よるむらさき",
+  "ko": "밤보라",
+  "zh-TW": "夜紫"
+ },
+ "薄荷": {
+  "en": "Mint",
+  "ja": "ミント",
+  "ko": "민트",
+  "zh-TW": "薄荷"
+ },
+ "柠檬": {
+  "en": "Lemon",
+  "ja": "レモン",
+  "ko": "레몬",
+  "zh-TW": "檸檬"
+ },
+ "蓝": {
+  "en": "Blue",
+  "ja": "あお",
+  "ko": "파랑",
+  "zh-TW": "藍"
+ },
+ "电脑上没找到 Codex 或 Claude Code": {
+  "en": "Couldn't find Codex or Claude Code on this computer",
+  "ja": "この PC に Codex も Claude Code も見つからないよ",
+  "ko": "이 컴퓨터에서 Codex나 Claude Code를 못 찾았어",
+  "zh-TW": "電腦上沒找到 Codex 或 Claude Code"
+ },
+ "AI 没按格式回答，再试一次？": {
+  "en": "AI didn't answer in the right format. Try again?",
+  "ja": "AI の答えが形式どおりじゃなかった。もう一回やる？",
+  "ko": "AI가 형식대로 답하지 않았어. 다시 해 볼까?",
+  "zh-TW": "AI 沒按格式回答，再試一次？"
+ },
+ "小克的衣柜": {
+  "en": "Clawd's Wardrobe",
+  "ja": "Clawd のクローゼット",
+  "ko": "Clawd의 옷장",
+  "zh-TW": "小克的衣櫃"
+ },
+ "自己画一个{0}": {
+  "en": "Draw your own {0}",
+  "ja": "{0}を自分で描く",
+  "ko": "{0} 직접 그리기",
+  "zh-TW": "自己畫一個{0}"
+ },
+ "让我想想～": {
+  "en": "Let me think~",
+  "ja": "うーん、考え中～",
+  "ko": "생각해 볼게~",
+  "zh-TW": "讓我想想～"
+ },
+ "留下啦！": {
+  "en": "Kept it!",
+  "ja": "キープ！",
+  "ko": "남겼어!",
+  "zh-TW": "留下啦！"
+ },
+ "。照 {0} 里「让 AI 加衣服、加状态」那段，用 pet.py {1} 加进去。": {
+  "en": ". Follow the “Let AI add outfits & states” section in {0}, and add them with pet.py {1}.",
+  "ja": "。{0} の「AI に服・状態を追加してもらう」の部分どおりに、pet.py {1} で追加してね。",
+  "ko": ". {0}의 'AI로 옷·상태 추가하기' 부분대로 pet.py {1}로 추가해 줘.",
+  "zh-TW": "。照 {0} 裡「讓 AI 加衣服、加狀態」那段，用 pet.py {1} 加進去。"
+ },
+ "请帮我的小克桌宠搭 3 套整套造型{0}。照 {1} 里「让 AI 加衣服、加状态」那段做。": {
+  "en": "Please make 3 full outfits for my Clawd desktop pet{0}. Follow the “Let AI add outfits & states” section in {1}.",
+  "ja": "私の Clawd デスクトップペットにセットコーデを3つ作って{0}。{1} の「AI に服・状態を追加してもらう」の部分どおりにお願い。",
+  "ko": "내 Clawd 데스크톱 펫에게 세트 코디 3개를 만들어 줘{0}. {1}의 'AI로 옷·상태 추가하기' 부분대로 해 줘.",
+  "zh-TW": "請幫我的小克桌寵搭 3 套整套造型{0}。照 {1} 裡「讓 AI 加衣服、加狀態」那段做。"
+ },
+ "复制好了：贴给你的 AI（Codex、Claude Code、Cursor……都行），它加好后这里会自己出现": {
+  "en": "Copied: paste it to your AI (Codex, Claude Code, Cursor… any works). Once it's added, it'll show up here",
+  "ja": "コピーしたよ：あなたの AI（Codex、Claude Code、Cursor…なんでもOK）に貼ってね。追加されたらここに自動で出てくるよ",
+  "ko": "복사했어: 네 AI(Codex, Claude Code, Cursor… 다 돼)에 붙여 넣어 줘. 추가되면 여기에 알아서 나타나",
+  "zh-TW": "複製好了：貼給你的 AI（Codex、Claude Code、Cursor……都行），它加好後這裡會自己出現"
+ },
+ "自己写一个状态": {
+  "en": "Write your own state",
+  "ja": "自分で状態を作る",
+  "ko": "직접 상태 만들기",
+  "zh-TW": "自己寫一個狀態"
+ },
+ "自己调一个体型": {
+  "en": "Make your own build",
+  "ja": "自分で体型を調整",
+  "ko": "직접 체형 조절",
+  "zh-TW": "自己調一個體型"
+ },
+ "穿上啦！": {
+  "en": "Wearing it!",
+  "ja": "着たよ！",
+  "ko": "입었어!",
+  "zh-TW": "穿上啦！"
+ },
+ "{0} 出错了：{1}": {
+  "en": "{0} error: {1}",
+  "ja": "{0} でエラー：{1}",
+  "ko": "{0} 오류: {1}",
+  "zh-TW": "{0} 出錯了：{1}"
+ },
+ "AI 回答的格式坏了，再试一次？": {
+  "en": "The AI's reply came out garbled. Try again?",
+  "ja": "AI の答えの形式が崩れちゃった。もう一回やる？",
+  "ko": "AI 답변 형식이 깨졌어. 다시 해 볼까?",
+  "zh-TW": "AI 回答的格式壞了，再試一次？"
+ },
+ "外表": {
+  "en": "Looks",
+  "ja": "見た目",
+  "ko": "외모",
+  "zh-TW": "外表"
+ },
+ "＋ 新的": {
+  "en": "＋ New",
+  "ja": "＋ 新規",
+  "ko": "＋ 새로",
+  "zh-TW": "＋ 新的"
+ },
+ "正穿着 / 正用着的不能删～": {
+  "en": "Can't delete what's being worn / used~",
+  "ja": "着てる・使ってるものは消せないよ～",
+  "ko": "입고 있거나 쓰고 있는 건 못 지워~",
+  "zh-TW": "正穿著 / 正用著的不能刪～"
+ },
+ "记住啦～": {
+  "en": "Got it~",
+  "ja": "覚えたよ～",
+  "ko": "기억했어~",
+  "zh-TW": "記住啦～"
+ },
+ "换回默认的话啦": {
+  "en": "Back to the default lines",
+  "ja": "デフォルトのセリフに戻したよ",
+  "ko": "기본 대사로 돌아왔어",
+  "zh-TW": "換回預設的話啦"
+ },
+ "（借电脑上的 AI，要等几秒到几十秒）": {
+  "en": "(borrows the AI on your computer; takes a few to tens of seconds)",
+  "ja": "（PC の AI を借りるので、数秒〜数十秒かかるよ）",
+  "ko": "(컴퓨터의 AI를 빌려 써서 몇 초~몇십 초 걸려)",
+  "zh-TW": "（借電腦上的 AI，要等幾秒到幾十秒）"
+ },
+ "这次没做出能用的，再试一次？": {
+  "en": "Nothing usable this time. Try again?",
+  "ja": "今回は使えるのができなかった。もう一回やる？",
+  "ko": "이번엔 쓸 만한 게 안 나왔어. 다시 해 볼까?",
+  "zh-TW": "這次沒做出能用的，再試一次？"
+ },
+ "请帮我的小克桌宠做 3 个新的{0}": {
+  "en": "Please make 3 new {0} for my Clawd desktop pet",
+  "ja": "私の Clawd デスクトップペットに新しい{0}を3つ作って",
+  "ko": "내 Clawd 데스크톱 펫에게 새 {0} 3개를 만들어 줘",
+  "zh-TW": "請幫我的小克桌寵做 3 個新的{0}"
+ },
+ "给这身起个名字": {
+  "en": "Name this outfit",
+  "ja": "このコーデに名前をつけて",
+  "ko": "이 코디 이름 짓기",
+  "zh-TW": "幫這身取個名字"
+ },
+ "宽 %": {
+  "en": "W %",
+  "ja": "幅 %",
+  "ko": "너비 %",
+  "zh-TW": "寬 %"
+ },
+ "高 %": {
+  "en": "H %",
+  "ja": "高さ %",
+  "ko": "높이 %",
+  "zh-TW": "高 %"
+ },
+ "拖一拖，桌面上的小克马上跟着变": {
+  "en": "Drag it: Clawd on the desktop changes right away",
+  "ja": "ドラッグすると、デスクトップの Clawd がすぐ変わるよ",
+  "ko": "끌어 보면 바탕화면의 Clawd가 바로 바뀌어",
+  "zh-TW": "拖一拖，桌面上的小克馬上跟著變"
+ },
+ "画小道具 / 改小克的样子": {
+  "en": "Draw props / redesign Clawd",
+  "ja": "小物を描く / Clawd の見た目を変える",
+  "ko": "소품 그리기 / Clawd 모습 바꾸기",
+  "zh-TW": "畫小道具 / 改小克的樣子"
+ },
+ "画一个{0}": {
+  "en": "Draw a {0}",
+  "ja": "{0}を描く",
+  "ko": "{0} 그리기",
+  "zh-TW": "畫一個{0}"
+ },
+ "{0} 想太久了（超过 {1} 秒），再试一次？": {
+  "en": "{0} took too long (over {1}s). Try again?",
+  "ja": "{0} が考えすぎちゃった（{1}秒オーバー）。もう一回やる？",
+  "ko": "{0}가 너무 오래 생각했어 ({1}초 넘음). 다시 해 볼까?",
+  "zh-TW": "{0} 想太久了（超過 {1} 秒），再試一次？"
+ },
+ "{0} 好像没登录：先在它那边登录一次": {
+  "en": "{0} doesn't seem to be logged in: log in there once first",
+  "ja": "{0} にログインしてないみたい：先にそっちで一度ログインしてね",
+  "ko": "{0}에 로그인이 안 된 것 같아: 먼저 거기서 한 번 로그인해 줘",
+  "zh-TW": "{0} 好像沒登入：先在它那邊登入一次"
+ },
+ "自己写一个（能改小克的样子）": {
+  "en": "Write your own (can change how Clawd looks)",
+  "ja": "自分で作る（Clawd の見た目も変えられる）",
+  "ko": "직접 만들기 (Clawd 모습도 바꿀 수 있어)",
+  "zh-TW": "自己寫一個（能改小克的樣子）"
+ },
+ "把现在这身存成整套": {
+  "en": "Save this outfit as a set",
+  "ja": "今のコーデをセットで保存",
+  "ko": "지금 코디를 세트로 저장",
+  "zh-TW": "把現在這身存成整套"
+ },
+ "自己调一个颜色": {
+  "en": "Make your own color",
+  "ja": "自分で色を調整",
+  "ko": "직접 색 조절",
+  "zh-TW": "自己調一個顏色"
+ },
+ "没找到能借的 AI（Codex / Claude Code）：点上面两个会复制一句话，贴给你自己的 AI": {
+  "en": "No AI to borrow (Codex / Claude Code): click either one above to copy a prompt, then paste it to your own AI",
+  "ja": "借りられる AI（Codex / Claude Code）がないよ：上の2つを押すと一文がコピーされるから、自分の AI に貼ってね",
+  "ko": "빌려 쓸 AI(Codex / Claude Code)가 없어: 위의 두 개를 누르면 문장이 복사되니까 네 AI에 붙여 넣어 줘",
+  "zh-TW": "沒找到能借的 AI（Codex / Claude Code）：點上面兩個會複製一句話，貼給你自己的 AI"
+ },
+ "小克在挑…": {
+  "en": "Clawd is picking…",
+  "ja": "Clawd が選び中…",
+  "ko": "Clawd가 고르는 중…",
+  "zh-TW": "小克在挑…"
+ },
+ "AI 在做…": {
+  "en": "AI is making…",
+  "ja": "AI が作成中…",
+  "ko": "AI가 만드는 중…",
+  "zh-TW": "AI 在做…"
+ },
+ "新的": {
+  "en": "New",
+  "ja": "新規",
+  "ko": "새로",
+  "zh-TW": "新的"
+ },
+ "：{0}": {
+  "en": ": {0}",
+  "ja": "：{0}",
+  "ko": ": {0}",
+  "zh-TW": "：{0}"
+ },
+ "先起个名字": {
+  "en": "Name it first",
+  "ja": "先に名前をつけてね",
+  "ko": "이름부터 지어 줘",
+  "zh-TW": "先取個名字"
+ },
+ "还什么都没画": {
+  "en": "Nothing drawn yet",
+  "ja": "まだ何も描いてないよ",
+  "ko": "아직 아무것도 안 그렸어",
+  "zh-TW": "還什麼都沒畫"
+ },
+ "新的{0}": {
+  "en": "New {0}",
+  "ja": "新しい{0}",
+  "ko": "새 {0}",
+  "zh-TW": "新的{0}"
+ },
+ "小克挑 3 个": {
+  "en": "Clawd picks 3",
+  "ja": "Clawd が3つ選ぶ",
+  "ko": "Clawd가 3개 고르기",
+  "zh-TW": "小克挑 3 個"
+ },
+ "AI 做 3 个": {
+  "en": "AI makes 3",
+  "ja": "AI が3つ作る",
+  "ko": "AI가 3개 만들기",
+  "zh-TW": "AI 做 3 個"
+ },
+ "，按小克自己的口味挑": {
+  "en": ", picked to Clawd's own taste",
+  "ja": "、Clawd の好みで選んで",
+  "ko": ", Clawd 취향대로 골라서",
+  "zh-TW": "，按小克自己的口味挑"
+ },
+ "好": {
+  "en": "OK",
+  "ja": "OK",
+  "ko": "좋아",
+  "zh-TW": "好"
+ },
+ "叫什么": {
+  "en": "What's it called?",
+  "ja": "名前は？",
+  "ko": "이름이 뭐야?",
+  "zh-TW": "叫什麼"
+ },
+ "用哪种姿势": {
+  "en": "Which pose?",
+  "ja": "どのポーズ？",
+  "ko": "어떤 자세?",
+  "zh-TW": "用哪種姿勢"
+ },
+ "这时说的话（几句用 / 隔开）": {
+  "en": "What it says now (separate lines with /)",
+  "ja": "このときのセリフ（複数は / で区切る）",
+  "ko": "이때 하는 말 (여러 개는 / 로 구분)",
+  "zh-TW": "這時說的話（幾句用 / 隔開）"
+ },
+ "画小道具 / 改小克的样子（可不画）": {
+  "en": "Draw props / redesign Clawd (optional)",
+  "ja": "小物を描く / Clawd の見た目を変える（なくてもOK）",
+  "ko": "소품 그리기 / Clawd 모습 바꾸기 (안 해도 돼)",
+  "zh-TW": "畫小道具 / 改小克的樣子（可不畫）"
+ },
+ "存": {
+  "en": "Save",
+  "ja": "保存",
+  "ko": "저장",
+  "zh-TW": "存"
+ },
+ "名字": {
+  "en": "Name",
+  "ja": "名前",
+  "ko": "이름",
+  "zh-TW": "名字"
+ },
+ "小克色": {
+  "en": "Clawd color",
+  "ja": "Clawd 色",
+  "ko": "Clawd 색",
+  "zh-TW": "小克色"
+ },
+ "正在用": {
+  "en": "In use",
+  "ja": "使用中",
+  "ko": "사용 중",
+  "zh-TW": "正在用"
+ },
+ "其他颜色…": {
+  "en": "More colors…",
+  "ja": "ほかの色…",
+  "ko": "다른 색…",
+  "zh-TW": "其他顏色…"
+ },
+ "清空": {
+  "en": "Clear",
+  "ja": "クリア",
+  "ko": "비우기",
+  "zh-TW": "清空"
+ },
+ "好了": {
+  "en": "Done",
+  "ja": "完了",
+  "ko": "완료",
+  "zh-TW": "好了"
+ },
+ "「{0}」时说的话（几句用 / 隔开）": {
+  "en": "Lines for “{0}” (separate with /)",
+  "ja": "「{0}」のときのセリフ（複数は / で区切る）",
+  "ko": "'{0}'일 때 하는 말 (여러 개는 / 로 구분)",
+  "zh-TW": "「{0}」時說的話（幾句用 / 隔開）"
+ },
+ "完成整理": {
+  "en": "Done tidying",
+  "ja": "整理完了",
+  "ko": "정리 끝",
+  "zh-TW": "完成整理"
+ },
+ "整理": {
+  "en": "Tidy up",
+  "ja": "整理",
+  "ko": "정리",
+  "zh-TW": "整理"
+ },
+ "恢复藏起来的 {0} 个": {
+  "en": "Restore {0} hidden",
+  "ja": "隠した{0}個を戻す",
+  "ko": "숨긴 {0}개 되돌리기",
+  "zh-TW": "恢復藏起來的 {0} 個"
+ },
+ "点一下：内置的藏起来，自己做的删掉": {
+  "en": "Click: built-ins get hidden, your own get deleted",
+  "ja": "クリック：内蔵のものは隠す、自作のものは削除",
+  "ko": "클릭: 기본 제공은 숨기고, 직접 만든 건 삭제",
+  "zh-TW": "點一下：內建的藏起來，自己做的刪掉"
+ },
+ "放上去试试，点一下留下：": {
+  "en": "Try it on, click to keep:",
+  "ja": "試着してみて、クリックでキープ：",
+  "ko": "입혀 보고, 클릭하면 남겨:",
+  "zh-TW": "放上去試試，點一下留下："
+ },
+ "调一个身子颜色": {
+  "en": "Pick a body color",
+  "ja": "体の色を調整",
+  "ko": "몸 색 조절",
+  "zh-TW": "調一個身體顏色"
+ },
+ "左键画、右键擦。改表情：用「小克色」把眼睛涂掉，再画新的；右键点小克身上 = 把那一格擦成透明（改轮廓、改姿势），「整只擦掉」= 从头画一只": {
+  "en": "Left-click to draw, right-click to erase. To change the face: paint over the eyes with “Clawd color”, then draw new ones. Right-clicking on Clawd erases that pixel to transparent (to reshape or repose), and “Erase all” lets you draw a whole new one",
+  "ja": "左クリックで描く、右クリックで消す。表情を変えるには「Clawd 色」で目を塗りつぶしてから新しく描いてね。Clawd の上で右クリック＝そのマスを透明に消す（輪郭やポーズを変える）、「全部消す」＝最初から描く",
+  "ko": "왼쪽 클릭으로 그리고, 오른쪽 클릭으로 지워. 표정 바꾸기: 'Clawd 색'으로 눈을 덮은 뒤 새로 그려. Clawd 위에서 우클릭 = 그 칸을 투명하게 지우기 (윤곽·자세 바꾸기), '전부 지우기' = 처음부터 그리기",
+  "zh-TW": "左鍵畫、右鍵擦。改表情：用「小克色」把眼睛塗掉，再畫新的；右鍵點小克身上 = 把那一格擦成透明（改輪廓、改姿勢），「整隻擦掉」= 從頭畫一隻"
+ },
+ "左键画、右键擦（右键点小克身上也能擦掉那一格）。淡淡的是小克，虚线框里是建议画的地方": {
+  "en": "Left-click to draw, right-click to erase (right-click on Clawd erases that pixel too). The faint one is Clawd; the dashed box is the suggested area to draw",
+  "ja": "左クリックで描く、右クリックで消す（Clawd の上で右クリックしてもそのマスを消せる）。うすく見えるのが Clawd、点線の枠の中が描くのにおすすめの場所",
+  "ko": "왼쪽 클릭으로 그리고, 오른쪽 클릭으로 지워 (Clawd 위에서 우클릭해도 그 칸이 지워져). 흐릿한 게 Clawd고, 점선 상자 안이 그리기 추천 자리야",
+  "zh-TW": "左鍵畫、右鍵擦（右鍵點小克身上也能擦掉那一格）。淡淡的是小克，虛線框裡是建議畫的地方"
+ },
+ "整只擦掉": {
+  "en": "Erase all",
+  "ja": "全部消す",
+  "ko": "전부 지우기",
+  "zh-TW": "整隻擦掉"
+ },
+ "狐狸小克": {
+  "en": "Fox Clawd",
+  "ja": "キツネ Clawd",
+  "ko": "여우 Clawd",
+  "zh-TW": "狐狸小克"
+ },
+ "紫色猫猫": {
+  "en": "Purple Kitty",
+  "ja": "むらさきニャンコ",
+  "ko": "보라 냥이",
+  "zh-TW": "紫色貓貓"
+ },
+ "水青兔兔": {
+  "en": "Aqua Bunny",
+  "ja": "みずいろうさぎ",
+  "ko": "아쿠아 토끼",
+  "zh-TW": "水青兔兔"
+ },
+ "粉粉小熊": {
+  "en": "Pink Teddy",
+  "ja": "ピンクのクマちゃん",
+  "ko": "핑크 곰돌이",
+  "zh-TW": "粉粉小熊"
+ },
+ "终末地工程师": {
+  "en": "Endfield Engineer",
+  "ja": "エンドフィールド技師",
+  "ko": "엔드필드 엔지니어",
+  "zh-TW": "終末地工程師"
+ },
+ "小魔女": {
+  "en": "Little Witch",
+  "ja": "ちび魔女",
+  "ko": "꼬마 마녀",
+  "zh-TW": "小魔女"
+ },
+ "小": {
+  "en": "Small",
+  "ja": "小",
+  "ko": "작게",
+  "zh-TW": "小"
+ },
+ "大": {
+  "en": "Large",
+  "ja": "大",
+  "ko": "크게",
+  "zh-TW": "大"
+ },
+ "跟着 Windows": {
+  "en": "Follow Windows",
+  "ja": "Windows に合わせる",
+  "ko": "Windows 따라가기",
+  "zh-TW": "跟隨 Windows"
+ },
+ "语言": {
+  "en": "Language",
+  "ja": "言語",
+  "ko": "언어",
+  "zh-TW": "語言"
+ },
+ "换形象…（小克、自己画的、AI 画的）": {
+  "en": "Change character… (Clawd, your own, AI-made)",
+  "ja": "キャラを変える…（Clawd・自作・AI作）",
+  "ko": "캐릭터 바꾸기… (Clawd, 직접 그린 것, AI가 그린 것)",
+  "zh-TW": "換形象…（小克、自己畫的、AI 畫的）"
+ },
+ "形象": {
+  "en": "Character",
+  "ja": "キャラ",
+  "ko": "캐릭터",
+  "zh-TW": "形象"
+ },
+ "小克": {
+  "en": "Clawd",
+  "ja": "Clawd",
+  "ko": "Clawd",
+  "zh-TW": "小克"
+ },
+ "自己画一个形象": {
+  "en": "Draw your own character",
+  "ja": "キャラを自分で描く",
+  "ko": "캐릭터 직접 그리기",
+  "zh-TW": "自己畫一個形象"
+ },
+ "画一个形象": {
+  "en": "Draw a character",
+  "ja": "キャラを描く",
+  "ko": "캐릭터 그리기",
+  "zh-TW": "畫一個形象"
+ },
+ "改这个姿势": {
+  "en": "Edit this pose",
+  "ja": "このポーズを描き直す",
+  "ko": "이 포즈 고치기",
+  "zh-TW": "改這個姿勢"
+ },
+ "左键画、右键擦。整只画出来：虚线框差不多是小克的大小，脚踩在框的最下面；用得最多的颜色就是它的主色（换颜色时换的就是它）": {
+  "en": "Left-click to draw, right-click to erase. Draw the whole body: the dashed box is about Clawd's size, with the feet on its bottom edge. The color you use most becomes its main color (that's what changes when you pick a new color).",
+  "ja": "左クリックで描く、右クリックで消す。全身を描いてね：点線の枠が Clawd くらいの大きさで、足は枠のいちばん下に。いちばん多く使った色がメインカラーになります（色を変えるとこの色が変わります）",
+  "ko": "왼쪽 클릭으로 그리고, 오른쪽 클릭으로 지워요. 몸 전체를 그려 주세요: 점선 상자가 Clawd 정도 크기이고, 발은 상자 맨 아래에 닿게. 가장 많이 쓴 색이 메인 색이 돼요 (색을 바꾸면 이 색이 바뀌어요).",
+  "zh-TW": "左鍵畫、右鍵擦。整隻畫出來：虛線框差不多是小克的大小，腳踩在框的最下面；用得最多的顏色就是它的主色（換顏色時換的就是它）"
+ },
+ "换回自动的": {
+  "en": "Back to auto",
+  "ja": "自動に戻す",
+  "ko": "자동으로 되돌리기",
+  "zh-TW": "換回自動的"
+ },
+ "小克的 5 个姿势是内置的；想改某个状态的样子，去「状态」页自己写一个": {
+  "en": "Clawd's 5 poses are built in. To change how a state looks, write your own on the “State” page.",
+  "ja": "Clawd の 5 つのポーズは組み込みです。ある状態の見た目を変えたいときは「状態」ページで自分で作ってね",
+  "ko": "Clawd의 5가지 포즈는 기본으로 들어 있어요. 어떤 상태의 모습을 바꾸고 싶으면 「상태」 페이지에서 직접 만들어 주세요",
+  "zh-TW": "小克的 5 個姿勢是內建的；想改某個狀態的樣子，去「狀態」頁自己寫一個"
+ },
+ "左键画、右键擦。这是这个形象现在的样子，改完点「好了」；想换回自动配的，点「换回自动的」": {
+  "en": "Left-click to draw, right-click to erase. This is how the character looks now — edit it and click “Done”. To go back to the automatic pose, click “Back to auto”.",
+  "ja": "左クリックで描く、右クリックで消す。これが今の見た目です。描き直したら「完了」、自動のポーズに戻すなら「自動に戻す」を押してね",
+  "ko": "왼쪽 클릭으로 그리고, 오른쪽 클릭으로 지워요. 지금 이 캐릭터의 모습이에요. 다 고치면 「완료」, 자동 포즈로 돌아가려면 「자동으로 되돌리기」를 눌러 주세요",
+  "zh-TW": "左鍵畫、右鍵擦。這是這個形象現在的樣子，改完點「好了」；想換回自動配的，點「換回自動的」"
+ },
+ "「{0}」的 5 个姿势：自动配好的，点一下能自己改": {
+  "en": "“{0}”'s 5 poses: set up automatically — click one to edit it",
+  "ja": "「{0}」の 5 つのポーズ：自動でできています。クリックで描き直せます",
+  "ko": "「{0}」의 5가지 포즈: 자동으로 만들어졌어요. 클릭하면 고칠 수 있어요",
+  "zh-TW": "「{0}」的 5 個姿勢：自動配好的，點一下能自己改"
+ },
+ "小太阳": {
+  "en": "Little Sunshine",
+  "ja": "おひさま",
+  "ko": "햇살이",
+  "zh-TW": "小太陽"
+ },
+ "热情、话多、爱夸人，什么事都往好处想": {
+  "en": "Warm, chatty, loves giving compliments, always looks on the bright side",
+  "ja": "元気でおしゃべり、ほめ上手。なんでも前向きにとらえる",
+  "ko": "다정하고 수다쟁이, 칭찬을 좋아하고 뭐든 좋게 생각해",
+  "zh-TW": "熱情、話多、愛誇人，什麼事都往好處想"
+ },
+ "嘴硬心软": {
+  "en": "Tsundere",
+  "ja": "ツンデレ",
+  "ko": "츤데레",
+  "zh-TW": "嘴硬心軟"
+ },
+ "嘴上嫌弃，其实很关心你；不肯承认自己开心": {
+  "en": "Acts annoyed but secretly cares; won't admit when it's happy",
+  "ja": "口では文句ばかりだけど本当は心配してる。うれしくても認めない",
+  "ko": "말로는 투덜대도 사실 널 엄청 챙겨. 기뻐도 절대 인정 안 해",
+  "zh-TW": "嘴上嫌棄，其實很關心你；不肯承認自己開心"
+ },
+ "慢吞吞": {
+  "en": "Slowpoke",
+  "ja": "のんびり屋",
+  "ko": "느림보",
+  "zh-TW": "慢吞吞"
+ },
+ "佛系、爱睡觉，说话慢半拍，最怕被催": {
+  "en": "Laid-back, loves naps, talks half a beat slow, hates being rushed",
+  "ja": "マイペースでお昼寝好き。話すのもワンテンポ遅め、急かされるのが苦手",
+  "ko": "느긋하고 낮잠을 좋아해. 말도 반 박자 느리고, 재촉받는 게 제일 싫어",
+  "zh-TW": "佛系、愛睡覺，說話慢半拍，最怕被催"
+ },
+ "中二勇者": {
+  "en": "Chuuni Hero",
+  "ja": "中二勇者",
+  "ko": "중2병 용사",
+  "zh-TW": "中二勇者"
+ },
+ "把小事都当冒险，爱喊口号、给自己起称号": {
+  "en": "Turns every little thing into an epic quest, loves battle cries and self-given titles",
+  "ja": "ささいなことも冒険にしちゃう。決めゼリフと自分の二つ名が大好き",
+  "ko": "작은 일도 모험으로 만들어. 구호 외치기와 스스로 칭호 붙이기를 좋아해",
+  "zh-TW": "把小事都當冒險，愛喊口號、幫自己取稱號"
+ },
+ "整理控": {
+  "en": "Neat Freak",
+  "ja": "きれい好き",
+  "ko": "정리왕",
+  "zh-TW": "整理控"
+ },
+ "爱干净、讲规矩，看到乱就想收拾": {
+  "en": "Tidy and by-the-book; can't see a mess without cleaning it up",
+  "ja": "きれい好きでルールに厳しい。散らかってるとすぐ片づけたくなる",
+  "ko": "깔끔하고 규칙을 잘 지켜. 어질러진 걸 보면 바로 치우고 싶어 해",
+  "zh-TW": "愛乾淨、守規矩，看到亂就想收拾"
+ },
+ "社恐": {
+  "en": "Shy Bean",
+  "ja": "人見知り",
+  "ko": "부끄럼쟁이",
+  "zh-TW": "社恐"
+ },
+ "害羞、说话小声，被夸会脸红": {
+  "en": "Shy and soft-spoken, blushes when praised",
+  "ja": "恥ずかしがり屋で声が小さい。ほめられると赤くなる",
+  "ko": "수줍고 목소리가 작아. 칭찬받으면 얼굴이 빨개져",
+  "zh-TW": "害羞、說話小聲，被誇會臉紅"
+ },
+ "小吃货": {
+  "en": "Foodie",
+  "ja": "くいしんぼう",
+  "ko": "먹보",
+  "zh-TW": "小吃貨"
+ },
+ "什么都能联想到吃，饿了就没精神": {
+  "en": "Everything reminds it of food; runs out of energy when hungry",
+  "ja": "なんでも食べ物につなげちゃう。おなかがすくと元気がなくなる",
+  "ko": "뭐든 먹는 걸로 연결해. 배고프면 기운이 없어",
+  "zh-TW": "什麼都能聯想到吃，餓了就沒精神"
+ },
+ "小哲学家": {
+  "en": "Tiny Philosopher",
+  "ja": "ちび哲学者",
+  "ko": "꼬마 철학자",
+  "zh-TW": "小哲學家"
+ },
+ "爱想大道理，说话像在写诗": {
+  "en": "Loves pondering big ideas; talks like it's writing poetry",
+  "ja": "大きな真理を考えるのが好き。話し方がまるで詩みたい",
+  "ko": "거창한 진리를 생각하길 좋아해. 말하는 게 꼭 시 같아",
+  "zh-TW": "愛想大道理，說話像在寫詩"
+ },
+ "连着工作台：形象、衣服、性格都在工作台里改": {
+  "en": "Linked to Clawdfield: change looks, outfits and personality there",
+  "ja": "Clawdfield と連携中：見た目・服・性格は Clawdfield で変えてね",
+  "ko": "Clawdfield와 연결됨: 모습, 옷, 성격은 Clawdfield에서 바꿔 줘",
+  "zh-TW": "連著工作台：形象、衣服、性格都在工作台裡改"
+ },
+ "打开工作台去换": {
+  "en": "Open Clawdfield to change",
+  "ja": "Clawdfield を開いて変える",
+  "ko": "Clawdfield 열어서 바꾸기",
+  "zh-TW": "打開工作台去換"
+ },
+ "性格…（{0}）": {
+  "en": "Personality… ({0})",
+  "ja": "性格…（{0}）",
+  "ko": "성격… ({0})",
+  "zh-TW": "性格…（{0}）"
+ },
+ "想要什么样的性格（空着 = 随便）": {
+  "en": "What kind of personality? (blank = surprise me)",
+  "ja": "どんな性格がいい？（空欄＝おまかせ）",
+  "ko": "어떤 성격으로? (비우면 = 아무거나)",
+  "zh-TW": "想要什麼樣的性格（空著 = 隨便）"
+ },
+ "小克现在的性格": {
+  "en": "Clawd's current personality",
+  "ja": "Clawd の今の性格",
+  "ko": "Clawd의 지금 성격",
+  "zh-TW": "小克現在的性格"
+ },
+ "✨ 让 AI 按你的要求写一个": {
+  "en": "✨ Let AI write one to your request",
+  "ja": "✨ AI にリクエストどおり作ってもらう",
+  "ko": "✨ AI가 원하는 대로 하나 만들기",
+  "zh-TW": "✨ 讓 AI 照你的要求寫一個"
+ },
+ "内置的性格（点一下换上；鼠标放上去听它说）": {
+  "en": "Built-in personalities (click to switch; hover to hear it talk)",
+  "ja": "内蔵の性格（クリックで切り替え、マウスを乗せるとしゃべるよ）",
+  "ko": "기본 성격 (클릭해서 바꾸기, 마우스를 올리면 말해 줘)",
+  "zh-TW": "內建的性格（點一下換上；滑鼠移上去聽它說）"
+ },
+ "按性格写话": {
+  "en": "Write lines by personality",
+  "ja": "性格でセリフを書く",
+  "ko": "성격대로 대사 쓰기",
+  "zh-TW": "照性格寫話"
+ },
+ "让小克照这个性格，把着急、忙碌、悠闲、欢呼、睡觉（还有你加的状态）和被点时说的话都重写一遍；写好先给你看，勾上的才换": {
+  "en": "Have Clawd rewrite everything it says when Rushing, Busy, Chill, Cheering, Sleeping (plus any states you added) and when clicked, to fit this personality. You'll see them first; only the checked ones get swapped in",
+  "ja": "この性格に合わせて、あせあせ・いそがしい・のんびり・ばんざい・おやすみ（追加した状態も）とクリックされたときのセリフを Clawd が全部書き直すよ。先に見せるから、チェックしたものだけ入れ替わる",
+  "ko": "이 성격에 맞춰 급해, 바빠, 여유, 환호, 쿨쿨(네가 추가한 상태도)과 클릭됐을 때 하는 말을 Clawd가 전부 다시 써. 먼저 보여 줄 테니 체크한 것만 바뀌어",
+  "zh-TW": "讓小克照這個性格，把著急、忙碌、悠閒、歡呼、睡覺（還有你加的狀態）和被點時說的話都重寫一遍；寫好先給你看，勾選的才換"
+ },
+ "AI 在写…": {
+  "en": "AI is writing…",
+  "ja": "AI が執筆中…",
+  "ko": "AI가 쓰는 중…",
+  "zh-TW": "AI 在寫…"
+ },
+ "小克在写…": {
+  "en": "Clawd is writing…",
+  "ja": "Clawd が執筆中…",
+  "ko": "Clawd가 쓰는 중…",
+  "zh-TW": "小克在寫…"
+ },
+ "不等了（AI 那边做完也不会用）": {
+  "en": "Stop waiting (AI's result won't be used even if it finishes)",
+  "ja": "もう待たない（AI が後で終わっても使わないよ）",
+  "ko": "그만 기다리기 (AI가 다 끝내도 안 써)",
+  "zh-TW": "不等了（AI 那邊做完也不會用）"
+ },
+ "小克按性格写的话": {
+  "en": "Lines Clawd wrote by personality",
+  "ja": "Clawd が性格に合わせて書いたセリフ",
+  "ko": "Clawd가 성격대로 쓴 대사",
+  "zh-TW": "小克照性格寫的話"
+ },
+ "性格": {
+  "en": "Personality",
+  "ja": "性格",
+  "ko": "성격",
+  "zh-TW": "性格"
+ },
+ "没找到能借的 AI：复制好了一句话，贴给你的 AI，再把它写的填进上面": {
+  "en": "No AI to borrow: a prompt is copied; paste it to your AI, then fill in what it writes above",
+  "ja": "借りられる AI がないよ：一文をコピーしたから、自分の AI に貼って、書いてくれた内容を上に入れてね",
+  "ko": "빌려 쓸 AI가 없어: 문장을 복사해 뒀으니 네 AI에 붙여 넣고, 써 준 걸 위에 채워 줘",
+  "zh-TW": "沒找到能借的 AI：複製好了一句話，貼給你的 AI，再把它寫的填進上面"
+ },
+ "AI 写好了，看看，点「存」才换上": {
+  "en": "AI is done, take a look. Click “Save” to apply",
+  "ja": "AI が書けたよ、見てみて。「保存」を押すと反映されるよ",
+  "ko": "AI가 다 썼어, 확인해 봐. '저장'을 눌러야 바뀌어",
+  "zh-TW": "AI 寫好了，看看，點「存」才換上"
+ },
+ "没找到能借的 AI（Codex / Claude Code）：可以在「状态」页一个个自己写": {
+  "en": "No AI to borrow (Codex / Claude Code): you can write them one by one on the “State” page",
+  "ja": "借りられる AI（Codex / Claude Code）がないよ：「状態」ページで1つずつ自分で書けるよ",
+  "ko": "빌려 쓸 AI(Codex / Claude Code)가 없어: '상태' 페이지에서 하나씩 직접 쓸 수 있어",
+  "zh-TW": "沒找到能借的 AI（Codex / Claude Code）：可以在「狀態」頁一個個自己寫"
+ },
+ "我现在是「{0}」啦": {
+  "en": "I'm “{0}” now!",
+  "ja": "今は「{0}」だよ！",
+  "ko": "이제 나는 '{0}'야!",
+  "zh-TW": "我現在是「{0}」啦"
+ },
+ "被点了一下": {
+  "en": "When clicked",
+  "ja": "クリックされたとき",
+  "ko": "클릭됐을 때",
+  "zh-TW": "被點了一下"
+ },
+ "换好啦，{0} 个": {
+  "en": "Swapped {0}!",
+  "ja": "{0}個 入れ替えたよ！",
+  "ko": "{0}개 바꿨어!",
+  "zh-TW": "換好啦，{0} 個"
+ },
+ "连着工作台": {
+  "en": "Linked to Clawdfield",
+  "ja": "Clawdfield と連携中",
+  "ko": "Clawdfield와 연결됨",
+  "zh-TW": "連著工作台"
+ },
+ "小克的形象、衣服、性格都在工作台里改，桌宠跟着工作台走，这里就不改了，免得两边不一样。\n\n换法：在工作台里右键小克 → 造型 →「复制给桌宠」，再回来右键这只小克 → 造型 →「粘贴工作台的造型」。\n\n想要一只只在桌宠上用的小克？在工作台里新建一只「桌宠小克」，打扮好再复制过来。": {
+  "en": "Clawd's looks, outfits and personality are all edited in Clawdfield. The pet follows Clawdfield, so they can't be changed here, to keep both sides the same.\n\nTo change: in Clawdfield, right-click Clawd → Look → “Copy to pet”, then come back, right-click this Clawd → Look → “Paste look from Clawdfield”.\n\nWant a Clawd just for the desktop pet? Create a new “Desktop Pet Clawd” in Clawdfield, dress it up, then copy it over.",
+  "ja": "Clawd の見た目・服・性格はすべて Clawdfield で変えるよ。デスクトップペットは Clawdfield に合わせて動くから、両方がズレないようにここでは変えないよ。\n\n変え方：Clawdfield で Clawd を右クリック → コーデ →「ペットにコピー」、戻ってきてこの Clawd を右クリック → コーデ →「Clawdfieldのコーデを貼り付け」。\n\nデスクトップペット専用の Clawd がほしい？Clawdfield で新しく「デスクトップペット Clawd」を作って、着せ替えてからコピーしてね。",
+  "ko": "Clawd의 모습, 옷, 성격은 전부 Clawdfield에서 바꿔. 데스크톱 펫은 Clawdfield를 따라가니까, 양쪽이 달라지지 않게 여기서는 안 바꿔.\n\n바꾸는 법: Clawdfield에서 Clawd를 우클릭 → 코디 → '펫에게 복사', 다시 돌아와서 이 Clawd를 우클릭 → 코디 → 'Clawdfield 코디 붙여 넣기'.\n\n데스크톱 펫에서만 쓸 Clawd가 필요해? Clawdfield에서 '데스크톱 펫 Clawd'를 새로 만들고, 꾸민 다음 복사해 와.",
+  "zh-TW": "小克的形象、衣服、性格都在工作台裡改，桌寵跟著工作台走，這裡就不改了，免得兩邊不一樣。\n\n換法：在工作台裡右鍵小克 → 造型 →「複製給桌寵」，再回來右鍵這隻小克 → 造型 →「貼上工作台的造型」。\n\n想要一隻只在桌寵上用的小克？在工作台裡新建一隻「桌寵小克」，打扮好再複製過來。"
+ },
+ "不想连工作台了：右键 → 联动 → 把工作台关掉，衣柜就回来了": {
+  "en": "Unlink Clawdfield: right-click → Connections → turn Clawdfield off, and the wardrobe comes back",
+  "ja": "Clawdfield との連携をやめるには：右クリック → 連携 → Clawdfield をオフにすると、クローゼットが戻ってくるよ",
+  "ko": "Clawdfield 연결을 끊으려면: 우클릭 → 연동 → Clawdfield 끄기, 그럼 옷장이 돌아와",
+  "zh-TW": "不想連工作台了：右鍵 → 連動 → 把工作台關掉，衣櫃就回來了"
+ },
+ "AI 写": {
+  "en": "AI writes",
+  "ja": "AI が書く",
+  "ko": "AI가 쓰기",
+  "zh-TW": "AI 寫"
+ },
+ "让小克按性格写话": {
+  "en": "Let Clawd write lines by personality",
+  "ja": "Clawd に性格でセリフを書いてもらう",
+  "ko": "Clawd가 성격대로 대사 쓰기",
+  "zh-TW": "讓小克照性格寫話"
+ },
+ "请帮我的小克桌宠想一个性格：{0}。把名字和一句话描述告诉我，我自己填进去。": {
+  "en": "Please come up with a personality for my Clawd desktop pet: {0}. Tell me its name and a one-line description, and I'll fill them in myself.",
+  "ja": "私の Clawd デスクトップペットの性格を考えて：{0}。名前とひとことの説明を教えてくれたら、自分で入力するね。",
+  "ko": "내 Clawd 데스크톱 펫의 성격을 하나 생각해 줘: {0}. 이름과 한 줄 설명을 알려 주면 내가 직접 채워 넣을게.",
+  "zh-TW": "請幫我的小克桌寵想一個性格：{0}。把名字和一句話描述告訴我，我自己填進去。"
+ },
+ "随便": {
+  "en": "Surprise me",
+  "ja": "おまかせ",
+  "ko": "아무거나",
+  "zh-TW": "隨便"
+ },
+ "不等了": {
+  "en": "Stop waiting",
+  "ja": "もう待たない",
+  "ko": "그만 기다리기",
+  "zh-TW": "不等了"
+ },
+ "勾上的换成新写的；没勾的不动": {
+  "en": "Checked ones get the new lines; unchecked stay as they are",
+  "ja": "チェックしたものは新しいセリフに、してないものはそのまま",
+  "ko": "체크한 건 새 대사로, 안 한 건 그대로",
+  "zh-TW": "勾選的換成新寫的；沒勾的不動"
+ },
+ "全部不要": {
+  "en": "Discard all",
+  "ja": "全部いらない",
+  "ko": "전부 버리기",
+  "zh-TW": "全部不要"
+ },
+ "换上勾上的": {
+  "en": "Apply checked",
+  "ja": "チェックしたものに替える",
+  "ko": "체크한 걸로 바꾸기",
+  "zh-TW": "換上勾選的"
+ },
+ "已经等了 {0} 秒（借电脑上的 AI，一般十几秒到一两分钟）": {
+  "en": "Waited {0}s so far (borrowing the AI on your computer usually takes 10+ seconds to a couple of minutes)",
+  "ja": "{0}秒待ってるよ（PC の AI を借りるので、ふつう十数秒〜1、2分かかるよ）",
+  "ko": "벌써 {0}초 기다렸어 (컴퓨터의 AI를 빌려 써서 보통 십몇 초~1, 2분 걸려)",
+  "zh-TW": "已經等了 {0} 秒（借電腦上的 AI，一般十幾秒到一兩分鐘）"
+ },
+ "按它的性格：{0}": {
+  "en": "In its personality: {0}",
+  "ja": "この子の性格で：{0}",
+  "ko": "이 아이 성격대로: {0}",
+  "zh-TW": "照它的性格：{0}"
+ }
+}

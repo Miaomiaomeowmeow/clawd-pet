@@ -1,0 +1,19 @@
+# 只在作者自己电脑上用、不上传的
+CLAUDE.md
+.sync/
+
+# 使用者自己的状态和设置：永远不上传
+status.json
+settings.json
+recent.json
+
+# 杂项
+__pycache__/
+*.pyc
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 作者自己的推广笔记
+推广/

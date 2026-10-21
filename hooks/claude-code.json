@@ -1,0 +1,7 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [{ "hooks": [{ "type": "command", "command": "python \"<安装路径>/pet.py\" hook busy", "timeout": 10 }] }],
+    "Stop": [{ "hooks": [{ "type": "command", "command": "python \"<安装路径>/pet.py\" hook done", "timeout": 10 }] }],
+    "Notification": [{ "hooks": [{ "type": "command", "command": "python \"<安装路径>/pet.py\" hook wait", "timeout": 10 }] }]
+  }
+}
